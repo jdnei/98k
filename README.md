@@ -13,7 +13,7 @@
 ## 简介
 “98k机场”是一款主打IEPL金融级专线的高端定位机场，旨在为用户提供极速、稳定且低延迟的跨境网络连接体验。  
 ## 邀请码
-`用邀请码注册，可用优惠码购买套餐`
+`用邀请码注册，可试用2小时（此活动官方随时取消）`
 ```bash
 dxKyakfm
 ```
@@ -50,8 +50,8 @@ dxKyakfm
 | **🌐 海外特调套餐**          | ¥18 / 月    | 128GB/月        | 与98K Lite一致 | 月付       | 专为海外用户设计，套餐规格与98K Lite一致，可通过官网文档切换国内/国外线路                            |
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](?raw=ture)  
+![image](https://github.com/jdnei/98k/blob/main/98k/sdk24187384687speed.jpg?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](?raw=ture)    
+![image](https://github.com/jdnei/98k/blob/main/98k/sdyei3092340284test.png?raw=ture)    
 #### 3.落地入口分析  
-![image](?raw=ture)
+![image](https://github.com/jdnei/98k/blob/main/98k/sdaofej238923984729ana.png?raw=ture)
