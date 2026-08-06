@@ -1,8 +1,10 @@
 
 # 98K机场官方地址(2026年8月6日更新)
 98K机场官网地址</br>
-最新地址：[98kjc.com](https://98kjc.top/#/register?code=dxKyakfm)</br>
-官网地址：[98kjc.com](https://98kjc.com/)</br>
+最新地址01：[98kjc.com](https://to.iix.im/98k04)</br>
+最新地址02：[ez.98kjc.top](https://to.iix.im/98k03)</br>
+官网地址01：[98kjc.com](https://to.iix.im/98k02)</br>
+官网地址02：[98kjc.xyz](https://to.iix.im/98k01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
