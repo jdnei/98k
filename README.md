@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 98K机场官方地址(2026年8月23日更新)
+# 98K机场官方地址(2026年8月24日更新)
 98K机场官网地址</br>
 最新地址01：[98kjc.com](https://to.iix.im/98k10)</br>
 最新地址02：[ez.98kjc.top](https://to.iix.im/98k03)</br>
