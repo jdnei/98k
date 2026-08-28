@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 98K VPN Official Address (Updated August 27, 2026)
+# 98K VPN Official Address (Updated August 28, 2026)
 
 98K VPN Official Website Address</br>
 Latest Address 01: [98kjc.com](https://to.iix.im/98k04)</br>
